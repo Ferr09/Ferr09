@@ -1,7 +1,7 @@
 # Hey there! I'm Fernando Rojas
 
 ## 🔭 Personal information
-I'm a 22 years old student following a double degree in computer science (information systems) at <a hef="https://ec-nantes.fr">Ecole Centrale de Nantes</a> 🇫🇷 and Industrial engineering <a href="https://ingenieria.uchile.cl/#;">FCFM Universidad de Chile</a> 🇨🇱
+I'm a 22 years old student following a double degree in computer science (information systems) at <a href="https://www.ec-nantes.fr">Ecole Centrale de Nantes</a> 🇫🇷 and Industrial engineering <a href="https://ingenieria.uchile.cl/#;">FCFM Universidad de Chile</a> 🇨🇱
 
 ## Let's connect !
 <p align="center">
