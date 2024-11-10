@@ -1,9 +1,9 @@
 # Hey there! I'm Fernando Rojas
 
 ## 🔭 Personal information
-I'm a 22 years old studying a double degree in computer science (information systems) at École Centrale de Nantes 🇫🇷 and Industrial engineering at Universidad de Chile 🇨🇱
+I'm a 22 years old student following a double degree in computer science (information systems) at École Centrale de Nantes <a hef="https://www.ec-nantes.fr/"><École Centrale de Nantes</a> 🇫🇷 and Industrial engineering <a href="https://ingenieria.uchile.cl/#;">FCFM Universidad de Chile</a> 🇨🇱
 
-## Let's contact !
+## Let's connect !
 <p align="center">
   <a href="https://github.com/Ferr09" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
