@@ -3,6 +3,13 @@
 ## 🔭 Personal information
 I'm a 22 years old student following a double degree in computer science (information systems) at <a href="https://www.ec-nantes.fr">Ecole Centrale de Nantes</a> 🇫🇷 and Industrial engineering <a href="https://ingenieria.uchile.cl/#;">FCFM Universidad de Chile</a> 🇨🇱
 
+## Technologies utilisés
+[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,postgres,github,html,js,matlab,nodejs,octave,r,mongodb,css&theme=light)](https://skillicons.dev)
+
+## Environnements technologiques
+[![My Skills](https://skillicons.dev/icons?i=pycharm,github,idea,latex,replit,vscode&theme=light)](https://skillicons.dev)
+
+
 ## Let's connect !
 <p align="center">
   <a href="https://github.com/Ferr09" target="_blank">
