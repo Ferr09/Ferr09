@@ -3,10 +3,17 @@
 ## 🔭 Personal information
 I'm a 22 years old student following a double degree in computer science (information systems) at <a href="https://www.ec-nantes.fr">Ecole Centrale de Nantes</a> 🇫🇷 and Industrial engineering <a href="https://ingenieria.uchile.cl/#;">FCFM Universidad de Chile</a> 🇨🇱
 
-## Technologies utilisés
+## Technologies
+### Languages
 [![My Skills](https://skillicons.dev/icons?i=java,py,cpp,postgres,github,html,js,matlab,nodejs,octave,r,mongodb,css&theme=light)](https://skillicons.dev)
 
-## Environnements technologiques
+### Frameworks/libraries
+[![My Skills](https://skillicons.dev/icons?i=angular,react,nodejs,springboot,numpy,netbeans,pandas,jupyter,gurobi&theme=light)](https://skillicons.dev)
+
+### Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=light)](https://skillicons.dev)
+
+## Micelanuous
 [![My Skills](https://skillicons.dev/icons?i=pycharm,github,idea,latex,replit,vscode&theme=light)](https://skillicons.dev)
 
 
